@@ -1,14 +1,14 @@
 
- Libraries that I have used - 
- 1 -     react
- 2 -    react-dom
+ Libraries that I have used -> 
+ 1 -     react,
+ 2 -    react-dom,
  3 -   react-router-dom"
 Modules that I have used 
-1 - useNavigate 
-2 -  link 
-3-  BrowserRouter 
-4- Route  
-5 - Routes
+1 - useNavigate ,
+2 -  link ,
+3-  BrowserRouter, 
+4- Route  ,
+5 - Routes,
 6- Outlet
  Css frameWork I have used - Bootstrap
 
